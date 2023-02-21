@@ -20,4 +20,9 @@ From the command line, run "pip install selenium". If you are still at the Pytho
 
 ![install selenium](images/install_selenium.png)
 
+## The webpage
+This project uses the [NSU web directory web page](https://www.nsuok.edu/directory/). By default, the page opens in search view with a search box and ten entries shown.
+
+![search view](images/search_view.png)
+
 
